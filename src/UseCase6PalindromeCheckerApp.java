@@ -38,7 +38,7 @@ public class UseCase6PalindromeCheckerApp {
         if (isPalindrome) {
             System.out.println(input + " is a Palindrome.");
         } else {
-            System.out.println(input + " is NOT a Palindrome.");
+            System.out.println(input + " is NOT a Palindrome. ");
         }
 
         scanner.close();
